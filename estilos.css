@@ -5,7 +5,7 @@ main{
     width: 80%;
     height: 600px;
     margin: 0 auto;
-    background-image:url("/IMAGENES/encryptador.jpg")
+    background-image:url("IMAGENES/encryptador.jpg")
 }
 #sec-1{
 
