@@ -1,9 +1,13 @@
 *{
     margin: 0;
  }
+ body{
+    background-color: rgb(4, 23, 63);
+ }
+
  main{ 
      width: 80%;
-     height: 600px;
+     height: 100%;
      margin: 0 auto;
      background-image:url("IMAGENES/encryptador.jpg")
  }
