@@ -1,0 +1,80 @@
+*{
+   margin: 0;
+}
+main{ 
+    width: 80%;
+    height: 600px;
+    margin: 0 auto;
+    background-image:url("/IMAGENES/encryptador.jpg")
+}
+#sec-1{
+
+}
+
+#div-1{
+    top: 20px;
+    left: 90px;
+}
+.txtArea{
+    background-color: transparent;
+    color: aqua;
+    display: block;
+    border: 3px solid aqua;
+}
+#letMinu{
+    color:mediumaquamarine;
+    display: block;
+    
+}
+#div-2{
+    position: relative;
+    margin-top: 20px;
+    width: 30%;
+    color: aliceblue;
+    display: inline-block;
+   
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+#muñeco{
+    position:absolute;
+    top: 0px;
+    right: 0px;
+    height: 100%;
+    width: 50%;
+   
+  
+}
+
+#div-3{
+   
+    position: relative;
+    display: inline-block;
+    width: 30%;
+    height: 150px;
+    margin-left: 10px;
+}
+
+#btnEncriptar{
+    padding: 10px 100px;
+    margin: 0px auto;
+    
+}
+#btnDesencriptar{
+    padding: 10px 90px;
+    margin: auto;
+   
+}
+#div-3 img{
+    margin: 8px;
+    margin-left: 100px;
+
+    height: 50px;
+    width: 50px;
+}
+#div-4{
+
+    /*margin-top: 20px;*/
+}
