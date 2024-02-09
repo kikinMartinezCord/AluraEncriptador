@@ -19,10 +19,6 @@
  
  }
  
- /*#div-1{
-     top: 20px;
-     left: 90px;
- }*/
  .txtArea{
     width: 100%;
     max-width: 100%;
@@ -62,12 +58,12 @@
  
  #div-3{
     
-    /* position: relative;*/
+   
      display: block;
      align-items: center;
      width: 30%;
      height: 150px;
-     margin-left: 10px;
+     margin-left: 100px;
  }
  
  #btnEncriptar{
@@ -86,7 +82,4 @@
      height: 50px;
      width: 50px;
  }
- #div-4{
- 
-     /*margin-top: 20px;*/
- }
+
